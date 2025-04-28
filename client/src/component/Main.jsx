@@ -4,6 +4,7 @@ import { FaGem } from 'react-icons/fa';
 import { IoBulbOutline, IoCompassOutline, IoCodeSlash } from 'react-icons/io5';
 import { Context } from '../context/Context';
 import logo from '../assets/logo.png'; 
+import bot from'../assets/bot.png';
 import helper from './helper';
 
 const Main = () => {
@@ -20,16 +21,18 @@ const Main = () => {
 
     const handleKeyPress =async (e) => {
         if (e.key === 'Enter'){
-                //   await helper(e.target.value)
-            // console.log("Response received",res);
-            
             await onSent();
         }
     };
 
-    const handleSuggestion = (prompt) => {
-        setInput(prompt);
-        onSent();
+    const handleSuggestion = async(prompt) => {
+        //console.log("type",typeof(prompt));
+        //console.log("insode suggestion",prompt);
+        
+        //setInput(prompt);
+        //console.log(input);
+        
+        await onSent(prompt);
     };
 
     const suggestions = [
@@ -44,7 +47,7 @@ const Main = () => {
             bg: "bg-amber-50 hover:bg-amber-100"
         },
         {
-            prompt: "What is the dating scene like at MANIT",
+            prompt: "What is the clubing scene like at MANIT",
             icon: <IoCodeSlash className="w-6 h-6 text-rose-500" />,
             bg: "bg-rose-50 hover:bg-rose-100"
         },
@@ -58,23 +61,42 @@ const Main = () => {
     return (
         <div className="flex-1 flex flex-col bg-white">
             {/* Header */}
-            <header className="sticky top-0 z-10 bg-white/80 backdrop-blur-md border-b border-gray-200 shadow-sm px-6 py-4 flex items-center justify-between">
-                <div 
-                    onClick={newChat}
-                    className="flex items-center gap-3 cursor-pointer group"
-                >
-                    <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-blue-500 to-blue-600 flex items-center justify-center shadow-md">
-                        <img src={logo} alt="CLASS Logo" className="w-8 h-8" />
-                    </div>
-                    <h1 className="text-xl font-bold">
-                        <span className="bg-gradient-to-r from-blue-600 to-blue-800 bg-clip-text text-transparent">CLASS</span>
-                        <span className="block text-xs font-normal text-blue-600">Campus Life Assistant and Student Support</span>
-                    </h1>
-                </div>
-                <div className="w-10 h-10 rounded-full bg-white/80 backdrop-blur-md border border-gray-300 shadow-sm flex items-center justify-center">
-                    <img src={logo} alt="Logo" className="w-6 h-6" />
-                </div>
-            </header>
+            <header className="sticky top-0 z-20 bg-white/90 backdrop-blur-lg border-b border-gray-200/80 shadow-sm px-6 py-3 flex items-center justify-between">
+    {/* Left side with logo and title */}
+    <div 
+        onClick={newChat}
+        className="flex items-center gap-4 cursor-pointer group active:scale-95 transition-transform"
+    >
+        <div className="w-15 h-13  flex items-center justify-center">
+            <img 
+                src={bot} 
+                alt="CLASS Logo" 
+                className="w-full h-full object-contain transition-all scale-110 group-hover:scale-120" 
+            />
+        </div>
+        
+        <div className="flex flex-col">
+            <h1 className="text-2xl font-extrabold tracking-tight">
+                <span className="bg-gradient-to-r from-blue-600 to-indigo-800 bg-clip-text text-transparent">
+                    C.L.A.S.S
+                </span>
+            </h1>
+            <p className="text-xs font-medium text-gray-500 mt-0.5 group-hover:text-blue-600 transition-colors">
+                Campus Life Assistant & Student Support
+            </p>
+        </div>
+    </div>
+
+    {/* Right side MANIT logo */}
+    <div className="w-11 h-11 rounded-full bg-white border border-gray-200/80 shadow-xs flex items-center justify-center hover:shadow-md transition-all hover:border-blue-300">
+        <img 
+            src={logo} 
+            onClick={() => window.open("https://www.manit.ac.in", "_blank")} 
+            alt="MANIT Website" 
+            className="w-7 h-7 cursor-pointer hover:scale-110 transition-transform" 
+        />
+    </div>
+</header>
 
             {/* Main Content */}
             <main className="flex-1 overflow-y-auto p-6">
@@ -110,7 +132,7 @@ const Main = () => {
                                             ))}
                                         </div>
                                         <p className="text-blue-600 font-medium text-sm">
-                                            CLASS is thinking...
+                                            Processing your query...
                                         </p>
                                     </div>
                                 ) : (
@@ -123,13 +145,9 @@ const Main = () => {
                     <div className="max-w-4xl mx-auto text-center py-8">
                         {/* Welcome Section */}
                         <div className="mb-12">
-                            <div className="w-20 h-20 mx-auto rounded-2xl bg-white/80 backdrop-blur-md border border-gray-200 shadow-lg flex items-center justify-center mb-6">
-                                <div className="w-14 h-14 rounded-xl bg-gradient-to-br from-blue-500 to-blue-600 shadow-md flex items-center justify-center">
-                                    <img src={logo} alt="CLASS Logo" className="w-10 h-10" />
-                                </div>
-                            </div>
+                            
                             <h1 className="text-3xl md:text-4xl font-bold text-gray-800 mb-3">
-                                Hello, I'm <span className="bg-gradient-to-r from-blue-600 to-blue-800 bg-clip-text text-transparent">CLASS</span>
+                                Hello, I'm <span className="bg-gradient-to-r from-blue-600 to-purple-800 bg-clip-text text-transparent">CLASS</span>
                             </h1>
                             <p className="text-lg text-gray-600 mb-1">Your Campus Life Assistant</p>
                             <p className="text-gray-500">Developed by Rishav and Atul</p>

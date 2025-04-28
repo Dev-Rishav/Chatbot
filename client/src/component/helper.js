@@ -3,8 +3,9 @@ import axios from "axios"
 const helper=async(text)=>{
     try {
         
-
-        const res=await axios.post("https://101f-35-199-155-126.ngrok-free.app/predict",{
+        console.log("prompt is: ",text);
+        
+        const res=await axios.post("http://127.0.0.1:8000/chat",{
             "question":text
         },{
             headers:{ "Content-Type": "application/json"}
