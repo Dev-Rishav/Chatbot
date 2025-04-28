@@ -4,6 +4,7 @@ import { FaGem } from 'react-icons/fa';
 import { IoBulbOutline, IoCompassOutline, IoCodeSlash } from 'react-icons/io5';
 import { Context } from '../context/Context';
 import logo from '../assets/logo.png'; 
+import helper from './helper';
 
 const Main = () => {
     const {
@@ -17,8 +18,13 @@ const Main = () => {
         newChat
     } = useContext(Context);
 
-    const handleKeyPress = (e) => {
-        if (e.key === 'Enter') onSent();
+    const handleKeyPress =async (e) => {
+        if (e.key === 'Enter'){
+                //   await helper(e.target.value)
+            // console.log("Response received",res);
+            
+            await onSent();
+        }
     };
 
     const handleSuggestion = (prompt) => {

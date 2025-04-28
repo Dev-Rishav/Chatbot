@@ -1,5 +1,6 @@
 import { createContext, useState } from "react";
-
+import axios from "axios";
+import helper from "../component/helper";
 
 export const Context = createContext();
 
@@ -22,19 +23,36 @@ const ContextProvider = (props) => {
         setShowResult(false)
     }
 
-    const onSent = async (prompt) => {
+    const onSent = async () => {
+        // console.log("prompt ",prompt);
+        
         setResultData("")
         setLoading(true)
         setShowResult(true)
-        let response;
+        let response="";
         if (prompt !== undefined) {
-          //  response = await 
+try {
+    
+    console.log("prompt ",prompt);
+            
+    const res = await helper(prompt)
+    
+   console.log(res.data);
+} catch (error) {
+    console.error("error occured ",error);
+    throw error;
+    
+}
+           
             setRecentPrompt(prompt)
         } else {
+            console.log("else ");
+            
             setPrevPrompts(prev => [...prev, input])
             setRecentPrompt(input)
-            response = await run(input);
+            response = await helper(input);
         }
+        if(response !== undefined){
         let responseArray = response.split("**");
         let newResponse = "";
         for (let i = 0; i < responseArray.length; i++) {
@@ -44,6 +62,7 @@ const ContextProvider = (props) => {
                 newResponse += "</br> <b>" + responseArray[i] + "</b>"
             }
         }
+    
 
         let newResponse2 = newResponse.split("*").join("</br>")
         let newResponseArray = newResponse2.split(" ");
@@ -52,6 +71,7 @@ const ContextProvider = (props) => {
             const nextWord = newResponseArray[i];
             delayPara(i, nextWord + " ")
         }
+    }
         setLoading(false)
         setInput("")
         // await run(prompt);
