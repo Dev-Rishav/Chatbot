@@ -7,22 +7,22 @@ How many students are enrolled at MANIT?	There are 5,014 students.
 What is the motto of MANIT?	The motto is "Knowledge is Power".
 How old is MANIT Bhopal?	MANIT is 64 years old (as of 2024).
 What is the gender distribution in hostels?	9 boys' hostels (3,585 beds) and 2 girls' hostels (731 beds).
-What is the name of the NRI boys' hostel?	Hostel No. 10 (Dr. APJ Abdul Kalam Bhavan).
-What is the name of the girls' hostel at MANIT?	Kalpana Chawla Bhawan (Hostel 7) and Bhagini Nivedita Bhavan (Hostel 12).
+What is the name of the NRI boys' hostel?	Hostel No. 9 (Sardar Vallav Bhai Patel Hostel.).
+What is the name of the girls' hostel at MANIT?	Kalpana Chawla Bhawan (Hostel 7) and Bhagini Nivedita Bhawan (Hostel 12).
 How large is the academic zone at MANIT?	The academic zone covers 265 hectares.
 How many lecture halls are there in MANIT?	Multiple lecture halls with modern audio-visual interfaces.
-Does MANIT have air-conditioned classrooms?	Yes, many classrooms are air-conditioned.
+Does MANIT have air-conditioned classrooms?	Yes, some classrooms are air-conditioned.
 What is the capacity of the computer center at MANIT?	The computer center has 200 modern systems.
 How many hostels are there for boys at MANIT?	9 boys' hostels + 1 NRI hostel.
 How many beds are available in girls' hostels?	731 beds across 2 hostels.
 What are the hostel fees per semester?	Approximately ₹18,000-20,500 per semester (excluding mess charges).
 What are the mess charges annually?	Around ₹25,000-27,000 per year.
 What recreational facilities are available on campus?	Football grounds, cricket fields, basketball courts, volleyball courts, gymnasium, and indoor games.
-Does MANIT have a lake?	Yes, an artificial Lotus Lake and MANIT Boat Club.
+Does MANIT have a lake?	Yes, an artificial Lotus Lake .
 What is the name of the sports complex at MANIT?	MANIT Sports Complex.
 Are there green zones on campus?	Yes, expansive green spaces for environmental benefits.
 Which hostel is assigned to first-year boys?	Hostel No. 10 (Dr. APJ Abdul Kalam Bhavan).
-Do girls get attached washrooms in hostels?	Yes, from second year onwards in newer blocks (Hostel 12).
+Do girls get attached washrooms in hostels?	Yes, from second year onwards in both h-12 and h-7.
 What are common hostel issues at MANIT?	Contaminated water, poor food quality, transportation issues, and inconsistent Wi-Fi.
 Are electrical appliances allowed in hostels?	Technically prohibited, but students often use them discreetly.
 What furniture is provided in hostel rooms?	Beds, study tables, chairs, and storage cupboards.
@@ -42,7 +42,7 @@ What are the meal timings in hostels?	Breakfast, lunch, evening snacks, and dinn
 What is a common breakfast item at MANIT?	Masala dosa, idli sambar, poha, or paratha.
 How much does mess food cost per day?	Approximately ₹90-100 per day.
 Which day has special mess food?	Sunday lunch (paneer butter masala, desserts).
-Name a popular late-night canteen on campus.	SuSangat Canteen (open until 5 AM).
+Name a popular late-night canteen on campus.	SuSangat Canteen (open until 11PM).
 Which cafe is good for study sessions?	High Octane Cafe (open until 10:30 PM).
 Where can students get affordable food outside campus?	Sharma Chinese, Sagar Gaire, Raju Tea Stall.
 What is Bhopal’s top cheap eat near MANIT?	Sagar Gaire (famous for burgers).
@@ -58,10 +58,10 @@ How many computer terminals are in the Central Computing Facility?	297 terminals
 Does MANIT have an internet radio club?	Yes, Web Development and Internet Radio Club (WDIRC).
 What digital resources does the library offer?	6,805 eBooks, 4,959 eJournals, and Wiley Online Library access.
 Is biometric attendance used at MANIT?	Yes, Biometric Based Attendance Monitoring System (BBAMS).
-What are the temperature extremes in Bhopal?	10°C in winter to 45°C in summer.
+What are the temperature extremes in Bhopal?	15°C in winter to 48°C in summer.
 What health risks exist due to weather?	Dehydration, heat stroke, and UV exposure.
-How many doctors are at the campus dispensary?	Two (Senior Medical Officer + Medical Officer).
-What are the ambulance timings?	8:30 AM-12:30 PM & 4:30 PM-7:00 PM (including weekends).
+How many doctors are at the campus dispensary?	Several (Senior Medical Officer + Medical Officer).
+What are the ambulance timings?	Ready 24x7.
 How many security guards are on campus?	140 ex-servicemen.
 Are security guards armed?	No, they are unarmed (not even lathis).
 What is a major security concern at MANIT?	Broken boundary walls allow unauthorized entry.
@@ -77,12 +77,11 @@ Does MANIT have a boat club?	Yes, MANIT Boat Club.
 What is the name of the Central Computing Facility?	CCF (Central Computing Facility).
 Which department is known for nanotechnology research?	Physics Department.
 What is the name of the annual cultural fest?	Not explicitly named, but Roobaro organizes events.
-Which canteen is open until 5 AM?	SuSangat Canteen.
+Which canteen is open until 11 PM?	SuSangat Canteen.
 What is the name of the student protest in 2023?	Protest against food quality and maintenance issues.
 Does MANIT have an Amul Parlor?	Yes, for quick dairy treats.
 What is the name of the Nescafe center?	Nescafe Center (for coffee & snacks).
-Which hostel has the best Wi-Fi?	Newer hostels (like Hostel 10 & 11) have better connectivity.
-What is the name of the hostel for NRI boys?	Hostel No. 10 (Dr. APJ Abdul Kalam Bhavan).
+Which hostel has the best Wi-Fi?	Newer hostels (like Hostel 11 & 12) have better connectivity.
 What is the name of the Central Research Facility?	Central Research Facility (CRF).
 Does MANIT have a Fuel Cell Training System?	Yes, for sustainable energy education.
 What is the name of the student-run mess committee?	Hostel Mess Committee (varies by hostel).
@@ -91,18 +90,16 @@ What is the name of the institute’s annual report?	Not specified, but 'Excelsi
 Does MANIT have a badminton court?	Yes, in the Sports Complex.
 What is the name of the debating society?	Debating Cell.
 Which club organizes industrial visits?	ChESA (Chemical Engineering Students' Association).
-What is the name of the alumni network?	Not specified in the article.
 Does MANIT have a medical emergency number?	Campus ambulance: 7869301950.
 What is the name of the student grievance cell?	Not mentioned in the article.
 Does MANIT have a gymkhana?	Yes, part of the Sports Complex.
 What is the name of the student activity center?	Student Activity Center (SAC).
 Which is the oldest department at MANIT?	Civil Engineering (established in 1960).
-What is the name of the institute’s director?	Not mentioned in the article.
+What is the name of the institute’s director?	Dr. Karunesh Kumar Shukla.
 Does MANIT have collaborations with AIIMS?	Yes, joint certificate courses with AIIMS Bhopal.
 What is the name of the student-run radio club?	WDIRC (Web Development and Internet Radio Club).
 Does MANIT have a central auditorium?	Yes, but not explicitly named in the article.
-What is the name of the alumni association?	Not specified in the article.
-Does MANIT have a startup incubation center?	Not mentioned in the article.
+Does MANIT have a startup incubation center?    Yes.
 What is the entrance exam for B.Tech at MANIT?	JEE Main (Joint Entrance Examination).
 What is the cutoff rank for CSE at MANIT (2023)?	Around 15,000-20,000 (CRL) for general category.
 Does MANIT accept NRI admissions?	Yes, through DASA (Direct Admission of Students Abroad).
@@ -128,7 +125,7 @@ Does MANIT have a coding culture?	Yes, strong competitive programming via clubs 
 Which programming languages are taught in CSE?	C, C++, Java, Python, and Data Structures.
 Are there hackathons at MANIT?	Yes, events like HackMIT and IEEE hackathons.
 Does MANIT have an incubation center?	Yes, the Innovation & Entrepreneurship Development Cell (IEDC).
-Which companies visit MANIT for placements?	Microsoft, Amazon, Goldman Sachs, TCS, Infosys, L&T, DRDO.
+Which companies visit MANIT for placements?	Microsoft, Amazon, Goldman Sachs, TCS, Infosys,FICO,MSCI,Quantiphi, L&T, DRDO.
 What is the average package at MANIT (2023)?	₹10-12 LPA (for CSE, ECE).
 Does MANIT offer summer internships?	Yes, through Training & Placement Cell (TPC).
 Which branch has the highest placements?	CSE, followed by ECE and Mechanical.
@@ -305,7 +302,7 @@ Does MANIT have a resume verification system?	Yes, TPC checks before sharing wit
 Are there any entrepreneurship placements?	No, but IEDC supports startup founders.
 Which banks visit for campus recruitment?	HDFC, ICICI, Axis Bank (for IT roles).
 Is there a cooling-off period between job offers?	Yes, 24 hours to decide on offers.
-What is the dress code for placement drives?	Formals (blazer optional).
+What is the dress code for placement drives?	Formals (White Full Shirt Black Pant blazer optional).
 Are there any bond-free job offers?	Yes, most product-based companies (Microsoft, Adobe).
 Does MANIT allow multiple job acceptances?	No, only 1 job offer permitted.
 Are there any government sector placements?	Yes, ISRO, DRDO, BARC via GATE scores.
@@ -335,7 +332,7 @@ Is there a student-built electric vehicle project?	Yes, "MANIT Eco-Racer" (top 1
 Has MANIT Civil contributed to metro projects?	Yes, consultancy for Bhopal Metro pillars.
 Does MANIT have a 24/7 counseling helpline?	No, but weekly psychologist visits.
 Are there stress-relief workshops before exams?	Yes, by NSS and Yoga Club.
-When was the new girls' hostel constructed?	2022 (Bhagini Nivedita Bhavan).
+When was the new girls' hostel constructed?	2022 (H-12 Bhagini Nivedita Bhavan).
 Is there a solar power installation plan?	Yes, 1MW plant proposed (2025).
 Which foreign universities have MoUs with MANIT?	3 (Germany, Japan, Malaysia).
 Are student exchange programs funded by MANIT?	Partial funding for top 5% academically.
@@ -379,510 +376,75 @@ How does MANIT’s median salary compare to NIT Warangal?	18% lower (₹9.5L vs 
 Which NIT has better CS research output?	NIT Trichy (2x more IEEE papers than MANIT).
 Why was the 2017 director suspended?	Fund misallocation (later cleared of charges).
 Will MANIT launch a space research center?	Proposed (awaiting ISRO collaboration).
-Is there a plan for a smart hostel system?	Yes, RFID-based entry by 2026.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-When was MANIT Bhopal established?	MANIT was established in 1960.
-What was MANIT Bhopal originally called?	It was originally called Maulana Azad College of Technology (MACT).
-Who is MANIT Bhopal named after?	It is named after Maulana Abul Kalam Azad, India's first education minister.
-When did MANIT become an NIT?	It became a National Institute of Technology (NIT) in 2002.
-What is the official abbreviation of MANIT?	Maulana Azad National Institute of Technology.
-How big is the MANIT Bhopal campus?	The campus spans 650 acres.
-Where is MANIT Bhopal located?	It is located in Bhopal, Madhya Pradesh, near Link Road No. 3.
-How many hostels are there at MANIT?	There are 12 hostels (9 for boys, 2 for girls, and 1 NRI hostel).
-What is the name of the central library at MANIT?	Central Library (with over 1.14 lakh books).
-Does MANIT have a sports complex?	Yes, the MANIT Sports Complex includes cricket, football, and basketball facilities.
-How many departments are there at MANIT?	There are 11 academic departments.
-Which is the oldest department at MANIT?	Civil Engineering (established in 1960).
-What is the grading system at MANIT?	A 10-point CGPA system is used.
-Does MANIT offer B.Arch programs?	Yes, the Department of Architecture offers B.Arch.
-What is the student-faculty ratio at MANIT?	Approximately 15:1.
-What entrance exam is required for B.Tech at MANIT?	JEE Main (Joint Entrance Examination).
-What is the JEE Main cutoff for CSE at MANIT?	Around 15,000-20,000 CRL for general category (2023).
-Does MANIT accept NRI admissions?	Yes, through the DASA scheme.
-Is there a management quota at MANIT?	No, admissions are strictly merit-based.
-What is the annual fee for B.Tech at MANIT?	Approximately ₹1.5-2 lakhs.
-What is the highest package offered at MANIT?	₹82 LPA (2023, international offer).
-Which companies recruit from MANIT?	Microsoft, Amazon, TCS, L&T, DRDO, etc.
-What is the average package for CSE?	₹10-12 LPA (2023).
-Does MANIT have a placement cell?	Yes, the Training and Placement Cell (TPC).
-What is the placement rate for CSE?	Over 90% (2023).
-How many beds are in girls' hostels?	731 beds across 2 hostels.
-What is the name of the NRI hostel?	Hostel No. 10 (Dr. APJ Abdul Kalam Bhavan).
-Are hostel rooms air-conditioned?	No, except for the NRI hostel.
-What is the hostel fee per semester?	₹18,000-20,500 (excluding mess charges).
-Is there a curfew in hostels?	Yes, 10 PM for girls' hostels.
-What is the annual tech fest called?	Technosearch.
-Which club organizes cultural events?	Roobaro.
-Does MANIT have a coding club?	Yes, CodeChef MANIT.
-Is there a student magazine?	Yes, "Excelsior."
-What is the gender ratio at MANIT?	Skewed (approx. 70% male, 30% female).
-Does MANIT have a research facility?	Yes, the Central Research Facility (CRF).
-Which department has the most patents?	Mechanical Engineering.
-Does MANIT offer Ph.D. programs?	Yes, across engineering and science disciplines.
-Are there collaborations with ISRO/DRDO?	Yes, joint research projects.
-What is MANIT's h-index?	62 (2024, Google Scholar).
-What is the motto of MANIT?	"Work is Worship."
-Does MANIT have a medical center?	Yes, a dispensary with two doctors.
-Are pets allowed on campus?	No.
-What is the name of the artificial lake at MANIT?	Lotus Lake.
-Does MANIT have a gymkhana?	Yes, for sports and extracurricular activities.
-What is the name of the architecture department's annual fest?	"Archumen."
-How many books are in the central library?	1,14,694 books and e-resources.
-Does MANIT have a Wi-Fi campus?	Yes, but connectivity varies.
-Which hostel is for first-year boys?	Hostel No. 10 (NRI hostel).
-What is the mess fee per month?	₹4,000-4,500.
-How many computer labs are there in CSE department?	8 dedicated computer labs.
-What is the name of the mechanical engineering society?	Mechanical Engineering Students' Association (MESA).
-Does MANIT have an incubation center?	Yes, the Innovation and Entrepreneurship Development Cell (IEDC).
-Which programming languages are taught in first year?	C, C++, and Python.
-How many lecture halls are in the main building?	15 lecture halls with AV facilities.
-What is the student strength of MANIT?	Approximately 5,000 students.
-Does MANIT have a swimming pool?	No.
-What is the name of the alumni association?	MANIT Alumni Association (MAA).
-How many faculty members are there at MANIT?	Around 250 faculty members.
-Does MANIT have MOUs with foreign universities?	Yes, with universities in Germany and Japan.
-What is the name of the robotics club?	MANIT Robotics Club.
-How many sports grounds are on campus?	4 major sports grounds.
-Does MANIT have a cafeteria?	Yes, multiple canteens and cafeterias.
-What is the name of the electronics department fest?	Electrothon.
-How many seats are there for B.Tech CSE?	120 seats per year.
-Does MANIT have a medical emergency number?	Yes, 0755-4051000.
-What is the name of the chemical engineering club?	ChESA (Chemical Engineering Students' Association).
-How many research papers are published annually?	200+ papers in Scopus-indexed journals.
-Does MANIT have a metro station nearby?	Yes, the MANIT Metro Station is 1 km away.
-What is the name of the literary club?	Literati.
-How many trees are on the MANIT campus?	Over 5,000 trees.
-Does MANIT have a post office?	Yes, a branch post office on campus.
-What is the name of the photography club?	Pixel Club.
-How many cycles are available for sharing?	50 cycles under the cycle-sharing program.
-Does MANIT have a bank branch?	Yes, an SBI branch on campus.
-What is the name of the music club?	Octave.
-How many WiFi hotspots are on campus?	50+ WiFi hotspots.
-Does MANIT have a guest house?	Yes, with 20 rooms for visitors.
-What is the name of the dance club?	Footloose.
-How many electric vehicle charging stations?	2 charging stations.
-Does MANIT have a shopping complex?	Yes, with stationery and grocery shops.
-What is the name of the drama club?	Ae Se Aenak.
-How many CCTV cameras are installed?	150+ CCTV cameras for security.
-Does MANIT have a book bank?	Yes, operated by the library.
-What is the name of the astronomy club?	Stargazers.
-How many water coolers are on campus?	100+ water coolers with RO purification.
-Does MANIT have a yoga center?	Yes, near the sports complex.
-What is the name of the eco-club?	Prakriti.
-How many solar panels are installed?	200 solar panels generating 100 kW power.
-Does MANIT have an auditorium?	Yes, with 500 seating capacity.
-What is the name of the film club?	Reel Minds.
-How many buses operate for students?	6 college buses for transportation.
-Does MANIT have a gym?	Yes, with modern equipment.
-What is the name of the quizzing club?	Quizards.
-How many departments have NBA accreditation?	8 departments are NBA accredited.
-Does MANIT have a medical ambulance?	Yes, available 24/7.
-What is the name of the debating society?	Debating Club.
-How many hostels have elevators?	2 hostels (Girls' hostel and NRI hostel).
-Does MANIT have a dedicated placement portal?	Yes, the TPC portal.
-What is the name of the entrepreneurship cell?	E-Cell MANIT.
-How many international students study at MANIT?	Approximately 50 students.
-Does MANIT have a grievance redressal cell?	Yes, for student complaints.
-What is the name of the arts club?	Kalakriti.
-How many faculty have PhD degrees?	Over 80% of faculty have PhDs.
-Does MANIT have a scholarship program?	Yes, multiple government scholarships.
-What is the name of the coding competition?	HackMIT.
-How many classrooms have projectors?	60+ classrooms with projectors.
-Does MANIT have a rainwater harvesting system?	Yes, implemented across campus.
-What is the name of the AI/ML club?	AI Club MANIT.
-How many departments offer M.Tech programs?	All 11 departments offer M.Tech.
-Does MANIT have a central computing facility?	Yes, with 300+ computers.
-What is the name of the cyber security club?	CyberCell MANIT.
-How many Ph.D. scholars are there?	Approximately 400 Ph.D. scholars.
-Does MANIT have a startup incubator?	Yes, supporting 10+ startups.
-What is the name of the data science club?	Data Science Community MANIT.
-How many journals does the library subscribe to?	200+ print and 5,000+ e-journals.
-Does MANIT have a women's cell?	Yes, for gender-related issues.
-What is the name of the IoT club?	IoT Club MANIT.
-How many international conferences are held annually?	5-10 international conferences.
-Does MANIT have a disability support cell?	Yes, for differently-abled students.
-What is the name of the blockchain club?	Blockchain Club MANIT.
-How many patents has MANIT filed?	50+ patents in last 5 years.
-Does MANIT have a mentoring system?	Yes, senior-junior mentoring program.
-What is the name of the renewable energy club?	Green Energy Club.
-How many industry visits happen annually?	20+ industry visits organized.
-Does MANIT have a legal aid cell?	Yes, for student legal matters.
-What is the name of the finance club?	Finomenon.
-How many cultural events are held each year?	30+ cultural events.
-Does MANIT have a counseling center?	Yes, with professional counselors.
-What is the name of the automobile club?	Auto Club MANIT.
-How many sports tournaments are organized?	15+ inter-college tournaments annually.
-Does MANIT have an anti-ragging committee?	Yes, with strict policies.
-What is the name of the aeromodelling club?	Aero Club MANIT.
-How many alumni meet annually?	500+ alumni during annual meet.
-Does MANIT have a student welfare committee?	Yes, addressing student concerns.
-What is the name of the bioengineering club?	Bio Club MANIT.
-How many faculty awards have been won?	100+ awards in last decade.
-Does MANIT have a student feedback system?	Yes, for courses and faculty.
-What is the name of the space technology club?	SpaceTech MANIT.
-How many consultancy projects are undertaken?	50+ projects annually.
-Does MANIT have a student-run radio?	Yes, MANIT Radio (online).
-What is the name of the material science club?	MatSci Club.
-How many faculty exchange programs exist?	With 5+ foreign universities.
-Does MANIT have a student parliament?	Yes, for student governance.
-What is the name of the quantum computing group?	Qubit MANIT.
-How many outreach programs are conducted?	10+ rural outreach programs annually.
-Does MANIT have a heritage club?	Yes, for cultural heritage preservation.
-What is the name of the nanotechnology group?	Nano Club MANIT.
-How many MoUs with industries exist?	30+ active industry MoUs.
-Does MANIT have a student legal aid clinic?	Yes, in collaboration with district court.
-What is the name of the psychology club?	Mind Matters.
-How many faculty development programs?	20+ FDPs conducted annually.
-Does MANIT have a student emergency fund?	Yes, for financial emergencies.
-What is the name of the semiconductor group?	SemiCon MANIT.
-How many student publications annually?	100+ student research publications.
-Does MANIT have a student credit society?	Yes, MANIT Credit Cooperative Society.
-What is the name of the mechatronics group?	Mechatronics Club.
-How many faculty patents granted?	30+ patents in last 3 years.
-Does MANIT have a student insurance scheme?	Yes, covering all students.
-What is the name of the thermal engineering group?	Thermo Club.
-How many student startups incubated?	15+ startups in last 5 years.
-Does MANIT have a student travel grant?	Yes, for conference attendance.
-What is the name of the fluid dynamics group?	Fluid Dynamics Research Group.
-How many student exchange programs?	With 3 foreign universities currently.
-Does MANIT have a student health insurance?	Yes, basic health coverage for all.
-What is the name of the combustion research group?	Combustion Research Lab.
-How many student innovation awards?	50+ awards in national competitions.
-Does MANIT have a student gymkhana?	Yes, managing student activities.
-What is the name of the vibration analysis group?	Vibration Research Lab.
-How many student design competitions?	10+ annual design challenges.
-Does MANIT have a student research grant?	Yes, for undergraduate research.
-What is the name of the acoustics research group?	Acoustics Research Lab.
-How many student patents filed?	5+ student-led patents.
-Does MANIT have a student travel club?	Yes, organizing educational trips.
-What is the name of the tribology research group?	Tribology Research Lab.
-How many student paper awards?	20+ best paper awards annually.
-Does MANIT have a student photography club?	Yes, Pixel Club MANIT.
-What is the name of the composite materials group?	Composite Materials Lab.
-How many student design patents?	3+ design patents by students.
-Does MANIT have a student music band?	Yes, MANIT Music Band.
-What is the name of the corrosion research group?	Corrosion Research Lab.
-How many student innovation cells?	5+ departmental innovation cells.
-Does MANIT have a student theater group?	Yes, MANIT Dramatics Society.
-What is the name of the welding research group?	Welding Technology Lab.
-How many student technical committees?	10+ student-run technical committees.
-Does MANIT have a student choir?	Yes, MANIT Choir Group.
-What is the name of the casting research group?	Casting Technology Lab.
-How many student outreach programs?	15+ annual social outreach programs.
-Does MANIT have a student dance crew?	Yes, MANIT Dance Crew.
-What is the name of the forging research group?	Forging Technology Lab.
-How many student community projects?	20+ community development projects.
-Does MANIT have a student art society?	Yes, MANIT Art Society.
-What is the name of the heat treatment research group?	Heat Treatment Lab.
-How many student environmental initiatives?	10+ green campus initiatives.
-Does MANIT have a student literary circle?	Yes, MANIT Literary Circle.
-What is the name of the surface engineering group?	Surface Engineering Lab.
-How many student welfare schemes?	5+ student welfare schemes active.
-Does MANIT have a student debate club?	Yes, MANIT Debate Society.
-What is the name of the machining research group?	Machining Technology Lab.
-How many student mentorship programs?	3+ active mentorship initiatives.
-Does MANIT have a student poetry club?	Yes, MANIT Poetry Collective.
-What is the name of the metrology research group?	Metrology Research Lab.
-How many student leadership programs?	4+ annual leadership workshops.
-Does MANIT have a student film society?	Yes, MANIT Film Society.
-What is the name of the instrumentation research group?	Instrumentation Technology Lab.
-How many student professional chapters?	15+ professional student chapters.
-Does MANIT have a student photography society?	Yes, MANIT Photography Club.
-What is the name of the automation research group?	Automation Technology Lab.
-How many student technical symposiums?	10+ annual technical symposiums.
-Does MANIT have a student quiz club?	Yes, MANIT Quiz Club.
-What is the name of the robotics research group?	Robotics Research Lab.
-How many student cultural festivals?	5+ major cultural festivals annually.
-Does MANIT have a student music society?	Yes, MANIT Music Society.
-What is the name of the AI research group?	Artificial Intelligence Research Lab.
-How many student sports meets?	4+ inter-hostel sports meets yearly.
-Does MANIT have a student fine arts club?	Yes, MANIT Fine Arts Club.
-What is the name of the ML research group?	Machine Learning Research Lab.
-How many student technical workshops?	30+ technical workshops annually.
-Does MANIT have a student sculpture club?	Yes, MANIT Sculpture Club.
-What is the name of the IoT research group?	IoT Research Lab.
-How many student hackathons?	5+ hackathons organized yearly.
-Does MANIT have a student painting club?	Yes, MANIT Painting Club.
-What is the name of the blockchain research group?	Blockchain Research Lab.
-How many student coding competitions?	10+ coding contests annually.
-Does MANIT have a student sketching club?	Yes, MANIT Sketching Club.
-What is the name of the cybersecurity research group?	Cybersecurity Research Lab.
-How many student technical publications?	50+ student technical papers yearly.
-Does MANIT have a student calligraphy club?	Yes, MANIT Calligraphy Club.
-What is the name of the quantum computing research group?	Quantum Computing Research Lab.
-How many student technical tours?	5+ industrial visits per department.
-Does MANIT have a student origami club?	Yes, MANIT Origami Club.
-What is the name of the nanotechnology research group?	Nanotechnology Research Lab.
-How many student technical exhibitions?	3+ technical exhibitions annually.
-Does MANIT have a student craft club?	Yes, MANIT Craft Club.
-What is the name of the renewable energy research group?	Renewable Energy Research Lab.
-How many student technical quizzes?	20+ departmental quizzes yearly.
-Does MANIT have a student pottery club?	Yes, MANIT Pottery Club.
-What is the name of the sustainable engineering research group?	Sustainable Engineering Research Lab.
-How many student technical paper contests?	10+ paper presentation contests.
-Does MANIT have a student woodworking club?	Yes, MANIT Woodworking Club.
-What is the name of the smart cities research group?	Smart Cities Research Lab.
-How many student technical innovation challenges?	5+ innovation challenges annually.
-Does MANIT have a student metalworking club?	Yes, MANIT Metal Arts Club.
-What is the name of the transportation research group?	Transportation Engineering Research Lab.
-How many student technical design contests?	8+ design competitions yearly.
-Does MANIT have a student glass art club?	Yes, MANIT Glass Art Society.
-What is the name of the structural engineering research group?	Structural Engineering Research Lab.
-How many student technical prototype competitions?	4+ prototype development contests.
-Does MANIT have a student textile art club?	Yes, MANIT Textile Art Club.
-What is the name of the geotechnical research group?	Geotechnical Engineering Research Lab.
-How many student technical case study competitions?	6+ case study contests annually.
-Does MANIT have a student jewelry making club?	Yes, MANIT Jewelry Art Club.
-What is the name of the environmental engineering research group?	Environmental Engineering Research Lab.
-How many student technical simulation contests?	3+ simulation competitions yearly.
-Does MANIT have a student leather art club?	Yes, MANIT Leather Art Club.
-What is the name of the water resources research group?	Water Resources Research Lab.
-How many student technical troubleshooting contests?	5+ troubleshooting challenges.
-Does MANIT have a student paper art club?	Yes, MANIT Paper Art Club.
-What is the name of the construction management research group?	Construction Management Research Lab.
-How many student technical debugging competitions?	4+ debugging contests annually.
-Does MANIT have a student digital art club?	Yes, MANIT Digital Arts Society.
-What is the name of the project management research group?	Project Management Research Lab.
-How many student technical reverse engineering contests?	3+ reverse engineering challenges.
-Does MANIT have a student animation club?	Yes, MANIT Animation Club.
-What is the name of the infrastructure research group?	Infrastructure Development Research Lab.
-How many student technical optimization competitions?	5+ optimization contests yearly.
-Does MANIT have a student game development club?	Yes, MANIT Game Dev Club.
-What is the name of the urban planning research group?	Urban Planning Research Lab.
-How many student technical efficiency challenges?	4+ efficiency improvement contests.
-Does MANIT have a student VR/AR club?	Yes, MANIT XR Club.
-What is the name of the rural development research group?	Rural Development Research Lab.
-How many student technical process improvement contests?	6+ process improvement challenges.
-Does MANIT have a student 3D printing club?	Yes, MANIT 3D Printing Club.
-What is the name of the disaster management research group?	Disaster Management Research Lab.
-How many student technical quality improvement contests?	5+ quality improvement challenges.
-Does MANIT have a student CAD/CAM club?	Yes, MANIT CAD/CAM Club.
-What is the name of the climate change research group?	Climate Change Research Lab.
-How many student technical sustainability contests?	7+ sustainability challenges annually.
-Does MANIT have a student GIS club?	Yes, MANIT GIS Club.
-What is the name of the energy policy research group?	Energy Policy Research Lab.
-How many student technical green tech competitions?	5+ green technology contests.
-Does MANIT have a student remote sensing club?	Yes, MANIT Remote Sensing Club.
-What is the name of the power systems research group?	Power Systems Research Lab.
-How many student technical energy efficiency contests?	6+ energy efficiency challenges.
-Does MANIT have a student renewable energy club?	Yes, MANIT Renewable Energy Club.
-What is the name of the smart grid research group?	Smart Grid Research Lab.
-How many student technical power solution contests?	4+ power solution challenges.
-Does MANIT have a student energy conservation club?	Yes, MANIT Energy Club.
-What is the name of the electrical machines research group?	Electrical Machines Research Lab.
-How many student technical circuit design contests?	8+ circuit design competitions.
-Does MANIT have a student power electronics club?	Yes, MANIT Power Electronics Club.
-What is the name of the control systems research group?	Control Systems Research Lab.
-How many student technical automation contests?	5+ automation challenges annually.
-Does MANIT have a student robotics club?	Yes, MANIT Robotics Club.
-What is the name of the signal processing research group?	Signal Processing Research Lab.
-How many student technical embedded systems contests?	7+ embedded systems competitions.
-Does MANIT have a student IoT club?	Yes, MANIT IoT Club.
-What is the name of the VLSI research group?	VLSI Design Research Lab.
-How many student technical chip design contests?	4+ chip design challenges.
-Does MANIT have a student semiconductor club?	Yes, MANIT Semiconductor Club.
-What is the name of the communications research group?	Communications Research Lab.
-How many student technical networking contests?	6+ networking competitions.
-Does MANIT have a student wireless tech club?	Yes, MANIT Wireless Club.
-What is the name of the antenna research group?	Antenna Design Research Lab.
-How many student technical RF design contests?	5+ RF design challenges.
-Does MANIT have a student microwave engineering club?	Yes, MANIT Microwave Club.
-What is the name of the optical communications research group?	Optical Communications Research Lab.
-How many student technical photonics contests?	3+ photonics competitions.
-Does MANIT have a student fiber optics club?	Yes, MANIT Fiber Optics Club.
-What is the name of the nanotechnology electronics research group?	Nanoelectronics Research Lab.
-How many student technical MEMS contests?	4+ MEMS design challenges.
-Does MANIT have a student microsystems club?	Yes, MANIT Microsystems Club.
-What is the name of the quantum electronics research group?	Quantum Electronics Research Lab.
-How many student technical quantum computing contests?	3+ quantum computing challenges.
-Does MANIT have a student quantum tech club?	Yes, MANIT Quantum Technology Club.
-What is the name of the biomedical electronics research group?	Biomedical Electronics Research Lab.
-How many student technical medical device contests?	5+ medical device competitions.
-Does MANIT have a student biomedical engineering club?	Yes, MANIT Bioelectronics Club.
-What is the name of the AI hardware research group?	AI Hardware Research Lab.
-How many student technical AI chip contests?	4+ AI chip design challenges.
-Does MANIT have a student neuromorphic computing club?	Yes, MANIT Neuromorphic Club.
-What is the name of the power electronics research group?	Power Electronics Research Lab.
-How many student technical converter design contests?	6+ power converter competitions.
-Does MANIT have a student power systems club?	Yes, MANIT Power Systems Club.
-What is the name of the renewable energy systems research group?	Renewable Energy Systems Research Lab.
-How many student technical hybrid system contests?	5+ hybrid energy system challenges.
-Does MANIT have a student smart grid club?	Yes, MANIT Smart Grid Club.
-What is the name of the electric vehicles research group?	Electric Vehicles Research Lab.
-How many student technical EV design contests?	4+ electric vehicle design competitions.
-Does MANIT have a student EV club?	Yes, MANIT Electric Vehicle Club.
-What is the name of the energy storage research group?	Energy Storage Research Lab.
-How many student technical battery design contests?	5+ battery technology challenges.
-Does MANIT have a student energy storage club?	Yes, MANIT Energy Storage Club.
-What is the name of the hydrogen energy research group?	Hydrogen Energy Research Lab.
-How many student technical fuel cell contests?	3+ fuel cell design competitions.
-Does MANIT have a student hydrogen tech club?	Yes, MANIT Hydrogen Club.
-What is the name of the nuclear energy research group?	Nuclear Energy Research Lab.
-How many student technical reactor design contests?	2+ nuclear reactor design challenges.
-Does MANIT have a student nuclear tech club?	Yes, MANIT Nuclear Technology Club.
-What is the name of the thermal engineering research group?	Thermal Engineering Research Lab.
-How many student technical heat exchanger contests?	5+ heat exchanger design competitions.
-Does MANIT have a student thermal systems club?	Yes, MANIT Thermal Club.
-What is the name of the fluid mechanics research group?	Fluid Mechanics Research Lab.
-How many student technical CFD contests?	6+ computational fluid dynamics challenges.
-Does MANIT have a student fluid dynamics club?	Yes, MANIT Fluid Dynamics Club.
-What is the name of the aerodynamics research group?	Aerodynamics Research Lab.
-How many student technical airfoil design contests?	4+ airfoil design competitions.
-Does MANIT have a student aerodynamics club?	Yes, MANIT Aerodynamics Club.
-What is the name of the propulsion research group?	Propulsion Research Lab.
-How many student technical engine design contests?	5+ propulsion system challenges.
-Does MANIT have a student propulsion club?	Yes, MANIT Propulsion Club.
-What is the name of the combustion research group?	Combustion Research Lab.
-How many student technical burner design contests?	3+ combustion system competitions.
-Does MANIT have a student combustion club?	Yes, MANIT Combustion Club.
-What is the name of the refrigeration research group?	Refrigeration Research Lab.
-How many student technical cooling system contests?	4+ refrigeration design challenges.
-Does MANIT have a student HVAC club?	Yes, MANIT HVAC Club.
-What is the name of the turbomachinery research group?	Turbomachinery Research Lab.
-How many student technical turbine design contests?	5+ turbomachinery competitions.
-Does MANIT have a student turbomachinery club?	Yes, MANIT Turbomachinery Club.
-What is the name of the materials science research group?	Materials Science Research Lab.
-How many student technical material design contests?	6+ material development challenges.
-Does MANIT have a student materials club?	Yes, MANIT Materials Club.
-What is the name of the metallurgy research group?	Metallurgy Research Lab.
-How many student technical alloy design contests?	5+ alloy development competitions.
-Does MANIT have a student metallurgy club?	Yes, MANIT Metallurgy Club.
-What is the name of the polymers research group?	Polymers Research Lab.
-How many student technical polymer synthesis contests?	4+ polymer development challenges.
-Does MANIT have a student polymer club?	Yes, MANIT Polymer Club.
-What is the name of the ceramics research group?	Ceramics Research Lab.
-How many student technical ceramic design contests?	3+ ceramic material competitions.
-Does MANIT have a student ceramics club?	Yes, MANIT Ceramics Club.
-What is the name of the composites research group?	Composites Research Lab.
-How many student technical composite design contests?	5+ composite material challenges.
-Does MANIT have a student composites club?	Yes, MANIT Composites Club.
-What is the name of the corrosion research group?	Corrosion Research Lab.
-How many student technical corrosion prevention contests?	4+ corrosion control competitions.
-Does MANIT have a student corrosion club?	Yes, MANIT Corrosion Club.
-What is the name of the tribology research group?	Tribology Research Lab.
-How many student technical lubrication contests?	3+ tribology system challenges.
-Does MANIT have a student tribology club?	Yes, MANIT Tribology Club.
-What is the name of the welding research group?	Welding Research Lab.
-How many student technical welding technique contests?	5+ welding process competitions.
-Does MANIT have a student welding club?	Yes, MANIT Welding Club.
-What is the name of the casting research group?	Casting Research Lab.
-How many student technical casting design contests?	4+ casting process challenges.
-Does MANIT have a student foundry club?	Yes, MANIT Foundry Club.
-What is the name of the forging research group?	Forging Research Lab.
-How many student technical forging design contests?	3+ forging process competitions.
-Does MANIT have a student forging club?	Yes, MANIT Forging Club.
-What is the name of the machining research group?	Machining Research Lab.
-How many student technical machining process contests?	5+ machining technique challenges.
-Does MANIT have a student machining club?	Yes, MANIT Machining Club.
-What is the name of the metrology research group?	Metrology Research Lab.
-How many student technical measurement contests?	4+ precision measurement competitions.
-Does MANIT have a student metrology club?	Yes, MANIT Metrology Club.
-What is the name of the quality control research group?	Quality Control Research Lab.
-How many student technical quality assurance contests?	5+ QA system challenges.
-Does MANIT have a student quality club?	Yes, MANIT Quality Club.
-What is the name of the automation research group?	Automation Research Lab.
-How many student technical automation system contests?	6+ automation design competitions.
-Does MANIT have a student automation club?	Yes, MANIT Automation Club.
-What is the name of the robotics research group?	Robotics Research Lab.
-How many student technical robot design contests?	7+ robotics challenges annually.
-Does MANIT have a student robotics club?	Yes, MANIT Robotics Club.
-What is the name of the mechatronics research group?	Mechatronics Research Lab.
-How many student technical mechatronic system contests?	5+ mechatronic design competitions.
-Does MANIT have a student mechatronics club?	Yes, MANIT Mechatronics Club.
-What is the name of the control systems research group?	Control Systems Research Lab.
-How many student technical control design contests?	4+ control system challenges.
-Does MANIT have a student control systems club?	Yes, MANIT Control Club.
-What is the name of the instrumentation research group?	Instrumentation Research Lab.
-How many student technical instrument design contests?	6+ instrumentation competitions.
-Does MANIT have a student instrumentation club?	Yes, MANIT Instrumentation Club.
-What is the name of the sensor technology research group?	Sensor Technology Research Lab.
-How many student technical sensor design contests?	5+ sensor development challenges.
-Does MANIT have a student sensors club?	Yes, MANIT Sensors Club.
-What is the name of the IoT research group?	IoT Research Lab.
-How many student technical IoT system contests?	7+ IoT solution competitions.
-Does MANIT have a student IoT club?	Yes, MANIT IoT Club.
-What is the name of the embedded systems research group?	Embedded Systems Research Lab.
-How many student technical embedded design contests?	6+ embedded system challenges.
-Does MANIT have a student embedded systems club?	Yes, MANIT Embedded Club.
-What is the name of the VLSI research group?	VLSI Research Lab.
-How many student technical chip design contests?	5+ VLSI design competitions.
-Does MANIT have a student VLSI club?	Yes, MANIT VLSI Club.
-What is the name of the FPGA research group?	FPGA Research Lab.
-How many student technical FPGA design contests?	4+ FPGA programming challenges.
-Does MANIT have a student FPGA club?	Yes, MANIT FPGA Club.
-What is the name of the ASIC research group?	ASIC Research Lab.
-How many student technical ASIC design contests?	3+ ASIC development competitions.
-Does MANIT have a student ASIC club?	Yes, MANIT ASIC Club.
-What is the name of the semiconductor research group?	Semiconductor Research Lab.
-How many student technical semiconductor contests?	5+ semiconductor technology challenges.
-Does MANIT have a student semiconductor club?	Yes, MANIT Semiconductor Club.
-What is the name of the MEMS research group?	MEMS Research Lab.
-How many student technical MEMS design contests?	4+ microsystem competitions.
-Does MANIT have a student MEMS club?	Yes, MANIT MEMS Club.
-What is the name of the nanotechnology research group?	Nanotechnology Research Lab.
-How many student technical nano-design contests?	6+ nanotechnology challenges.
-Does MANIT have a student nano club?	Yes, MANIT Nanotech Club.
-What is the name of the quantum technology research group?	Quantum Technology Research Lab.
-How many student technical quantum design contests?	3+ quantum technology competitions.
-Does MANIT have a student quantum club?	Yes, MANIT Quantum Club.
-What is the name of the photonics research group?	Photonics Research Lab.
-How many student technical photonic design contests?	5+ photonic system challenges.
-Does MANIT have a student photonics club?	Yes, MANIT Photonics Club.
-What is the name of the optical engineering research group?	Optical Engineering Research Lab.
-How many student technical optical design contests?	4+ optical system competitions.
-Does MANIT have a student optics club?	Yes, MANIT Optics Club.
-What is the name of the laser technology research group?	Laser Technology Research Lab.
-How many student technical laser design contests?	3+ laser system challenges.
-Does MANIT have a student laser club?	Yes, MANIT Laser Club.
-What is the name of the fiber optics research group?	Fiber Optics Research Lab.
-How many student technical fiber design contests?	5+ fiber optic system competitions.
-Does MANIT have a student fiber optics club?	Yes, MANIT Fiber Optics Club.
-What is the name of the display technology research group?	Display Technology Research Lab.
-How many student technical display design contests?	4+ display system challenges.
-Does MANIT have a student display club?	Yes, MANIT Display Club.
-What is the name of the imaging technology research group?	Imaging Technology Research Lab.
-How many student technical imaging system contests?	3+ imaging technology competitions.
-Does MANIT have a student imaging club?	Yes, MANIT Imaging Club.
-What is the name of the computer vision research group?	Computer Vision Research Lab.
-How many student technical vision system contests?	6+ computer vision challenges.
-Does MANIT have a student computer vision club?	Yes, MANIT Vision Club.
-What is the name of the pattern recognition research group?	Pattern Recognition Research Lab.
-How many student technical recognition system contests?	5+ pattern recognition competitions.
-Does MANIT have a student pattern club?	Yes, MANIT Pattern Club.
-What is the name of the machine learning research group?	Machine Learning Research Lab.
-How many student technical ML model contests?	7+ machine learning challenges.
-Does MANIT have a student ML club?	Yes, MANIT Machine Learning Club.
-What is the name of the deep learning research group?	Deep Learning Research Lab.
-How many student technical DL model contests?	6+ deep learning competitions.
-Does MANIT have a student DL club?	Yes, MANIT Deep Learning Club.
-What is the name of the AI research group?	Artificial Intelligence Research Lab.
-How many student technical AI system contests?	8+ AI solution challenges.
-Does MANIT have a student AI club?	Yes, MANIT AI Club.
-What is the name of the natural language processing research group?	NLP Research Lab.
-How many student technical NLP system contests?	5+ NLP application competitions.
-Does MANIT have a student NLP club?	Yes, MANIT NLP Club.
-What is the name of the speech processing research group?	Speech Processing Research Lab.
-How many student technical speech system contests?	4+ speech technology challenges.
-Does MANIT have a student
-
-
-
+Is there a plan for a smart hostel system?  Yes, RFID-based entry by 2026.
+Who is HOD of MBC Department?   Dr. Namita Shrivastav.
+Facility of MBC,MCA Branch? Dr. Sujoy Das, Dr.GSThakur,Dr.Madhvi Shakiya, Dr. Amit Bhagat, Dr. Sanjay Sharma, Dr.JK Jain, Dr.Jitendra Kumar.
+Where is MCA Branch Loacated? On Main Building 3rd. Floor.
+Distance Between Hostel And Department?  Aproox-1KM .
+Ragging in Hostels?  Not much but a little interaction between junior and seniors are occured.
+What Type of Interaction occure in between junior and seniors? seniors asks introduction and some funda to juniors.
+Does Students bunk the classes?    yes sometime.
+Are Teachers frendly to Students?  yes some are frendly and some are strict also.
+What is class duraction of class? Each period of class is of one hour.
+What is the Class timings?   9Am to 1PM and 2:30 to 5:30.
+How many day class occur on a week? five days.
+is there an official dress code?    NOt particularly, formal dresses are encouraged.
+What is the transportation system on campus?    In MANIT, we have Bus Services from hostels to Departments.
+Students have bike and car access on campus.     No, not inside the campus.
+Are there any cycle stands? Each and every department and hostels have their dedicated stands for cycles.
+Hi? Hello there! How can I help you with MANIT today.
+Hey CLASS?  Hey! Ask me anything about campus life, academics, or placements at MANIT 😊
+Good morning?   Good morning! Ready to tackle another day at MANIT? How can I assist you?
+Good afternoon? Good afternoon! Need info about classes, hostels, or events?
+Good evening?   Good evening! Ask me anything before your night study session begins ✨
+What's up?? Just here to help with MANIT queries! What's on your mind?
+How are you?    I'm always ready to help with MANIT info! What do you need to know today?
+Hey bot?    That's me! Your MANIT guide. Fire away with questions!
+Yo CLASS?   Yo! Hostel life, exams, or campus gossip? I've got deets!
+Namaste?    Namaste! MANIT ke baare mein kya jaan na chahenge?
+I'm new here?   Welcome to MANIT! 🎉 Need help finding hostels, mess timings, or your department?
+First day at MANIT? Exciting! Here's quick info: Academic block is near Lotus Lake, and SuSangat Canteen is open till 11 PM. What else do you need?
+Just joined MANIT?  Pro tip: Download the MANIT app for schedules. Need hostel rules or bus timings?
+I'm a fresher? Fresher alert! 🚨 Don't miss: 1) Dept orientation 2) Hostel allotment docs 3) Nescafe Center for chai breaks. Ask me specifics!
+Happy Diwali? Happy Diwali! 🪔 The campus will light up tonight - check out the hostel decorations!
+Happy Holi? Happy Holi! 🌈 Remember: Limited colors allowed in hostels. Play safe!
+Happy New Year? New year, new sem! 🎉 Need academic cal.  ndar dates or reso help?
+Merry Christmas? Merry Christmas! 🎄 The mess serves special cake today - check timing notices!
+Thanks? Anytime! 😊 Need more MANIT info? Just ask!
+Thank you? Anytime! 😊 Need more MANIT info? Just ask!
+Good job? Glad to help! Want to know about upcoming fests or deadlines?
+You're helpful? That's why I'm here! Try asking about placements or library hours 📚
+Tell me a joke? Why did the MANIT student bring a ladder to the library? To reach the higher education section! 😄
+Sing a song?    🎵 Hostel life, AC nahi... Par dost hai, masti hai! 🎵 (Ask me real questions now 😉)
+Do you like MANIT?  Love it! From 8 AM SuSangat maggi to late-night library runs - it's iconic! What's your favorite part?
+Who made you?   Rishav & Atul coded me to solve your MANIT queries! 🤖 Ask me anything serious now.
+What's happening today?    Check: 1) Dept notice boards 2) MANIT project events 3) Hostel committee meetings. Need specific dept info?
+Midnight snack options?     SuSangat (open till 11 PM) serves: 1) Maggi 2) Sandwiches 3) Cold Coffee. Pro tip: Bargain for combo deals!
+I'm stressed    Breathe! 🤗 Visit: 1) Lotus Lake 2) Gym 3) Nescafe balcony. Need counselor contacts?
+Exam pressure? You've got this! 💪 Library is open till 11 PM. 
+What does CLASS stand for?? Campus Life Assistant and Student Support - your 24/7 MANIT guide! (Developed by Rishav & Atul)
+Who created you?? I was built by Rishav & Atul to simplify MANIT life! Ask me anything serious now.
+Suggest a question? Try these: 1) Hostel rules? 2) Best canteen? 3) How to join clubs? 4) Placement stats?
+What can you do?? I know: 1) Academics 2) Hostels 3) Placements 4) Campus secrets! Try me 😉
+Monsoon tips?? 1) Waterproof your docs 2) Hostel 10-12 corridors flood first 3) Sharma Chinese delivers in rain! ☔
+Summer survival guide?? 1) Cotton kurta > formal dress 2) Nescafe AC zone 3) 2 PM-4 PM = nap time! Need cooler spots?
+Hostel party ideas?? 1) Room decor contests 2) Birthday surprises 3) Chai pe charcha on balconies! 🎉 (Keep it quiet post-11 PM!)
+Missing home? Hostel 7's terrace has the best sunset views 🌇. Want to know weekend activities?
+Semester advice?? 1) NPTEL deadlines matter 2) Befriend seniors for notes 3) Use CRF lab early! Need study hacks?
+Project group tips?? 1) Mix coders & writers 2) Book guides early 3) IEEE papers = bonus marks! Need topic ideas?
+I'm scared of placements? Relax! 90% CSE students get placed. Start with: 1) CodeChef 2) Mock interviews 3) TPC workshops. Want details?
+Say something cool? Did you know? MANIT's library has secret study nooks behind the nanotechnology section! 🤫
+Roast MANIT? Wi-Fi slower than hostel elevator... but at least the maggi is fast! 😂 What's your gripe?
+MANIT meme? When you see 75% attendance rule → 'Aaj hi dispensary se medical le aana hai!' 🏃💨
+Secret tip? Psst... Hostel 12's ground-floor bathroom has the best water pressure! 🚿 (Keep it between us)
+Motivate me? From 5 AM GATE prep to 5 AM SuSangat maggi - you're writing your success story! 📖✨
+Best fest?? Technosearch (tech) vs Rangmanch (cultural)! Pro tip: Apply early for coordinator roles 🎤
+Join a club?? Try: 1) CodeChef (coding) 2) Roobaro (cultural) 3) WDIRC (podcasts). Need audition tips?
+Hindi mein batao? Poocho kya janna hai: 1) Hostel rules 2) Class routine 3) Pehla sem kaise survive karen?
+भोजनालय समय? सुबह 7:30-9:00, दोपहर 12:30-2:30, शाम 4:30-6:00, रात 8:00-9:30। रविवार को विशेष पनीर मसाला!
+Bye? See you around campus! DM me anytime for MANIT help 👋
+Goodbye? See you around campus! DM me anytime for MANIT help 👋
+Sleep time? Hostel lights out soon! Sweet dreams - ask me tomorrow about 1) Class locations 2) Prof tips 3) Event dates 🌙
 
 
 
