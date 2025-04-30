@@ -381,40 +381,39 @@ Who is HOD of MBC Department?   Dr. Namita Shrivastav.
 Faculty of MBC,MCA Branch? Dr. Sujoy Das, Dr.GSThakur,Dr.Madhvi Shakiya, Dr. Amit Bhagat, Dr. Sanjay Sharma, Dr.JK Jain, Dr.Jitendra Kumar.
 Where is MCA Branch Loacated? On Main Building 3rd. Floor.
 Distance Between Hostel And Department?  Aproox-1KM .
-Ragging in Hostels?  Not much but a little interaction between junior and seniors are occured.
-What Type of Interaction occure in between junior and seniors? seniors asks introduction and some funda to juniors.
+Ragging in Hostels?     Not much but a little interaction between junior and seniors are occured.
+What Type of Interaction occure in between junior and seniors?      seniors asks introduction and some funda to juniors.
 Does Students bunk the classes?    yes sometime.
 Are Teachers frendly to Students?  yes some are frendly and some are strict also.
-What is class duraction of class? Each period of class is of one hour.
+What is class duraction of class?   Each period of class is of one hour.
 What is the Class timings?   9Am to 1PM and 2:30 to 5:30.
-How many day class occur on a week? five days.
+How many day class occur on a week?     five days.
 is there an official dress code?    NOt particularly, formal dresses are encouraged.
 What is the transportation system on campus?    In MANIT, we have Bus Services from hostels to Departments.
 Students have bike and car access on campus.     No, not inside the campus.
 Are there any cycle stands?     Each and every department and hostels have their dedicated stands for cycles.
-Hi? Hello there!     How can I help you with MANIT today.
-Hey CLASS?  Hey!    Ask me anything about campus life, academics, or placements at MANIT 😊
-Good morning?   Good morning! Ready to tackle another day at MANIT? How can I assist you?
-Good afternoon?     Good afternoon! Need info about classes, hostels, or events?
-Good evening?   Good evening! Ask me anything before your night study session begins ✨
-What's up?    Just here to help with MANIT queries! What's on your mind?
-How are you?    I'm always ready to help with MANIT info! What do you need to know today?
+Hi?     Hello there! How can I help you with MANIT today.
+Hey CLASS?  Hey!    Ask me anything about campus life, academics, or placements at MANIT
+Good morning?   Good morning! Ready to tackle another day at MANIT? How can I assist you?	
+Good afternoon?     Good afternoon! Need info about classes, hostels, or events?	
+Good evening?   Good evening! Ask me anything before your night study session begins
+What's up?    Just here to help with MANIT queries! What's on your mind?	
+How are you?    I'm always ready to help with MANIT info! What do you need to know today?	
 Hey bot?    That's me! Your MANIT guide. Fire away with questions!
 Yo CLASS?   Yo! Hostel life, exams, or campus gossip? I've got deets!
-Namaste?    Namaste! MANIT ke baare mein kya jaan na chahenge?
-I'm new here?   Welcome to MANIT! 🎉 Need help finding hostels, mess timings, or your department?
-First day at MANIT? Exciting! Here's quick info: Academic block is near Lotus Lake, and SuSangat Canteen is open till 11 PM. What else do you need?
-Just joined MANIT?  Pro tip: Download the MANIT app for schedules. Need hostel rules or bus timings?
-I'm a fresher? Fresher alert! 🚨 Don't miss: 1) Dept orientation 2) Hostel allotment docs 3) Nescafe Center for chai breaks. Ask me specifics!
-Happy Diwali? Happy Diwali! 🪔 The campus will light up tonight - check out the hostel decorations!
-Happy Holi? Happy Holi! 🌈 Remember: Limited colors allowed in hostels. Play safe!
-Happy New Year?    New year, new sem! 🎉 Need academic calendar dates or reso help?
-Merry Christmas? Merry Christmas! 🎄 The mess serves special cake today - check timing notices!
-Thanks? Anytime! 😊 Need more MANIT info? Just ask!
-Thank you? Anytime! 😊 Need more MANIT info? Just ask!
-Good job? Glad to help! Want to know about upcoming fests or deadlines?
-You're helpful? That's why I'm here! Try asking about placements or library hours 📚
-Tell me a joke? Why did the MANIT student bring a ladder to the library? To reach the higher education section! 😄
-Sing a song?    🎵 Hostel life, AC nahi... Par dost hai, masti hai! 🎵 (Ask me real questions now 😉)
-Do you like MANIT?  Love it! From 8 AM SuSangat maggi to late-night library runs - it's iconic! What's your favorite part?
-Who made you?   Rishav & Atul coded me to solve your MANIT queries! 🤖 Ask me anything serious now.
+Namaste?    Namaste! MANIT ke baare mein kya jaan na chahenge?	
+I'm new here?   Welcome to MANIT!   Need help finding hostels, mess timings, or your department?	
+First day at MANIT?     Exciting! Here's quick info: Academic block is near Lotus Lake, and SuSangat Canteen is open till 11 PM. What else do you need?	
+Just joined MANIT?      Pro tip: Download the MANIT app for schedules. Need hostel rules or bus timings?	
+Happy Diwali?   Happy Diwali!    The campus will light up tonight - check out the hostel decorations!
+Happy Holi?     Happy Holi!    Remember: Limited colors allowed in hostels. Play safe!
+Happy New Year?    New year, new sem!  Need academic calendar dates or reso help?	
+Merry Christmas?    Merry Christmas!    The mess serves special cake today - check timing notices!
+Thanks?     Anytime!     Need more MANIT info? Just ask!
+Thank you?      Anytime!      Need more MANIT info? Just ask!
+Good job?   Glad to help! Want to know about upcoming fests or deadlines?	
+You're helpful?     That's why I'm here! Try asking about placements or library hours
+Tell me a joke?      Why did the MANIT student bring a ladder to the library? To reach the higher education section!
+Sing a song?    Hostel life, AC nahi... Par dost hai, masti hai!    (Ask me real questions now )
+Do you like MANIT?       Love it! From 8 AM SuSangat maggi to late-night library runs - it's iconic! What's your favorite part?	
+Who made you?   Rishav & Atul coded me to solve your MANIT queries!      Ask me anything serious now.
